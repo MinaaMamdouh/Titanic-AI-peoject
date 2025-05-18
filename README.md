@@ -1,4 +1,4 @@
-# AI Course Codes - Huawei X NTI
+# AI Project - Titanic
 
 Welcome to the AI Course Codes repository! This repository contains code examples, projects, and resources from my AI course, which is a collaboration between NTI and Huawei.
 
@@ -56,10 +56,4 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/yourusername/AI_Course.git
 ```
 
-### contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me!
-
-- **Email:** khaled.taha1918@gmail.com
-- **LinkedIn:** [khaled Taha](https://www.linkedin.com/in/khaled-taha-6a780b299/)
-- **Discord:** 1.unknown\_.
